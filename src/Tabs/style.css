@@ -1,0 +1,12 @@
+.btn_tab {
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 250px;
+    background: #a3e7ef;
+    border-radius: 8px;
+    border: #52767a 2px solid;
+    margin: 2px;
+}
+.par_tab {
+    font-size: 25px;
+}

@@ -1,0 +1,18 @@
+.active {
+    padding: 10px 30px;
+    border: 2px solid #f80a51 ;
+    cursor: pointer;
+    color: #f80a51;
+    font-size: 20px;
+}
+.default {
+    padding: 10px 30px;
+    border: 2px solid #464645;
+    cursor: pointer;
+    font-size: 20px;
+}
+.content {
+    padding: 50px 30px;
+    background: #beb6f2;
+    font-size: 25px;
+}
